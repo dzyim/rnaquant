@@ -1,0 +1,11 @@
+Package: rnaquant
+Title: Miscellaneous Functions on Expression Quantification
+Version: 0.0.0.9000
+Authors@R: 
+    person("Chern", "Liang", , "chen.liang@ghddi.org", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Miscellaneous functions on expression quantification.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
